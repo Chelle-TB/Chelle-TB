@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HTML&CSS projects to build my portfolio.<br>👯 I’m looking to collaborate on beginner-friendly coding projects.<br>🌱 I’m currently learning HTML, CSS and exploring programming logic<br>⚡ The first website ever created is still online today.
+🔭 I’m currently working on Frontend projects to build my portfolio.<br>👯 I’m looking to collaborate on beginner-friendly coding projects.<br>🌱 I’m currently learning HTML, CSS and exploring programming logic<br>⚡ The first website ever created is still online today.
 
 
 ## 🌐 Socials:
